@@ -1,0 +1,1 @@
+python2 stage1/stage1_test.py -batch_size 5

@@ -1,0 +1,5 @@
+gpu_id = '0'
+data_path = './dataset/MPV/'
+stage1_model='grid5_prog'
+stage1_res_folder='./results/stage1/'
+test_filename='test_pairs.txt'
